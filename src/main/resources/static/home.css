@@ -1,0 +1,69 @@
+#body-home{
+    margin: 5%;
+    text-align: center;
+    background-color: rgb(215, 223, 223);
+}
+
+#imag{
+    background-color: rgb(205, 211, 211);
+    border-radius: 60px;
+}
+
+.ar{
+    text-align: center;
+    color: rgb(206, 99, 206);
+    font-size:65px;
+}
+
+a:link, a:hover {
+    text-decoration: none;
+    color: rgb(211, 22, 38);
+    font-size: 25px;
+}
+
+#imag2{
+    height: auto;
+    width: auto;
+    max-width:140px;
+    
+    border-radius: 4px;
+    border-color: black;
+    border-style: solid;  
+}
+
+.arma{
+    width: 200px;
+}
+#herad{
+    background-size: cover;
+    text-align: center;
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Captura-de-pantalla-2017-03-30-a-las-11.59.05.png?fit=2012%2C1006&ssl=1);
+}
+
+.herad1{
+    color: rgb(204, 57, 106);
+    margin: 15px;
+}
+
+h2{
+    font-size:14px;
+}
+
+article {
+    
+    width: 300px;
+    height:400px;
+    float: left;
+    margin: 15px;
+
+    padding:5px;
+    font-size:13px;
+    
+    border-radius: 15px;
+    border-color: black;
+    
+    box-shadow: 5px 5px rgba(168, 168, 167, 0.513);
+    
+    background-size: contain;
+    background-color: rgb(209, 198, 207);
+}
